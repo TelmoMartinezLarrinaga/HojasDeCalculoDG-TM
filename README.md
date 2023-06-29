@@ -2,4 +2,5 @@
 
 It should have a README.md file.
 
-- Hello CONFLICTS!
+- Next Step Is To See How They SYNC
+
